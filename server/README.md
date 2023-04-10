@@ -51,6 +51,15 @@ $ npm run start:prod
 $ npm run seed
 ```
 
+## DOT ENV SAMPLE
+```
+DATABASE_HOST=localhost
+DATABASE_NAME=quizapp
+DATABASE_USER=postgres
+DATABASE_PASSWORD=root
+DATABASE_PORT=5432
+```
+
 ## Test
 
 ```bash
