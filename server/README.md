@@ -45,6 +45,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## SEED COMMAND
+```bash
+# development
+$ npm run seed
+```
+
 ## Test
 
 ```bash
