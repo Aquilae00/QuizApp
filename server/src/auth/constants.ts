@@ -1,0 +1,3 @@
+export const jwtConstants = {
+    secret: 'Lo3yA2czKGs1mJcLbq/Biy6IqSBcQ4ZfI1YGpDiOvy/K+swGT1JaJuuiFnI27sxVpct4A1AVSOoCrTdLoPJmTUKzEs447mUo/V92VTc81f4bBeBPT09j57LMsTyY+co56l2/Yf5o+vM60HGJJh0pEBGMX64bFVLpgsl5R9aGtEsUl4ev6Nuaiba8T9/4d3WZAhzYIF1/QPlo0nb4zYjdbRuTsyVOGlWvU8Tfo08MJeI47HPH357ck9rXx5ICxm20Q3JwTF0xO4a7gNb5AZjOJqRo0cYKUvH+zlcMjdit/n2VJ1SFrsBE8KQcNKjri4UzdawRx0J2DtpljfrFmyEbSQ==',
+};

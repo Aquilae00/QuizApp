@@ -7,12 +7,16 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+      spacing: {
+        xs: `${2 * 0.25}em`,
+        sm: `${3 * 0.25}em`,
+        base: `${4 * 0.25}em`,
+        md: `${6 * 0.25}em`,
+        lg: `${10 * 0.25}em`,
+        xl: `${14 * 0.25}em`,
+      }
     },
   },
+  mode: 'jit',
   plugins: [],
 }
